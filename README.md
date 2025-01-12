@@ -1,1 +1,3 @@
 # BlazorCleanArchitectureTemplate
+
+# Change Database name
